@@ -1,0 +1,17 @@
+﻿1>------ Build started: Project: sem_4, Configuration: Debug Win32 ------
+1>Build started 22.5.2013 23:23:32.
+1>InitializeBuildStatus:
+1>  Touching "Debug\sem_4.unsuccessfulbuild".
+1>GenerateTargetFrameworkMonikerAttribute:
+1>Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+1>ClCompile:
+1>  All outputs are up-to-date.
+1>  sem_4.cpp
+1>c:\users\zdeněk\documents\visual studio 2010\projects\sem_4\sem_4\Form1.h(147): error C2664: 'System::Windows::Forms::Form::Closing::add' : cannot convert parameter 1 from 'System::EventHandler ^' to 'System::ComponentModel::CancelEventHandler ^'
+1>          No user-defined-conversion operator available, or
+1>          Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.17
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
